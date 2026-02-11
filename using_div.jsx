@@ -1,9 +1,10 @@
-function App(){
-    return(
-        <div>
-            <h1>Hello</h1>
-            <p>Welcome to react</p>
-        </div>
-    );
+function App() {
+  return (
+    <div>
+      <h1>Hello</h1>
+      <p>Welcome to React</p>
+    </div>
+  );
 }
+
 export default App;
